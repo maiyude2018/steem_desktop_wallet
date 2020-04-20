@@ -9,20 +9,19 @@
 - 6.见证人投票
 
 
+
 /requirements/base.txt  #这是需要安装的依赖包
+
 /SUI  #UI美化包
+
 /acc.db #账号数据库文件
+
 /main.py #主程序
+
 /steemwaller.py #UI程序
+
 /steemwaller.ui #pyqt5_UI文件
 
-关于github文件：
-/requirements/base.txt  #这是需要安装的依赖包
-/SUI  #UI美化包
-/acc.db #账号数据库文件
-/main.py #主程序
-/steemwaller.py #UI程序
-/steemwaller.ui #pyqt5_UI文件
 /steems_top.rar  #打包好的win7  EXE程序，打开即可使用
 
 
