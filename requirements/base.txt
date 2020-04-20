@@ -1,0 +1,8 @@
+PyQt5==5.9.2
+PyInstaller==3.4
+requests
+beem
+pywin32
+QcureUi
+steemengine
+setuptools==44.0.0
