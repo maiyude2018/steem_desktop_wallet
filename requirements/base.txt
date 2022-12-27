@@ -5,4 +5,4 @@ beem
 pywin32
 QcureUi
 steemengine
-setuptools==44.0.0
+setuptools==65.5.1
